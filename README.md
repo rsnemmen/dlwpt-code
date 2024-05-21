@@ -1,8 +1,12 @@
 # Deep Learning with PyTorch
 
-This repository contains code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann, published by Manning Publications.
+Jupyter notebooks for the lessons from *Deep Learning with PyTorch*, by Eli Stevens, Luca Antiga, and Thomas Viehmann, published by Manning Publications. I (@rsnemmen) am reading the book from cover to cover, and this repo contains my changes to the notebooks. Mostly prettifying the NBs and some changes here and there.
 
 ![Image of the cover for Deep Learning with PyTorch](data/Stevens-DLPy-HI.png)
+
+
+
+----------
 
 The Manning site for the book is: https://www.manning.com/books/deep-learning-with-pytorch
 
