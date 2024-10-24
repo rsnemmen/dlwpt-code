@@ -30,4 +30,4 @@ Jupyter notebooks for the lessons from [Deep Learning with PyTorch](https://www.
 
 ## Info about the book
 
-See the original [README](book-info) and [go buy it]((https://www.amazon.com/Deep-Learning-PyTorch-Eli-Stevens/dp/1617295264)).
+See the original [README](./book-info.md) and [go buy the book]((https://www.amazon.com/Deep-Learning-PyTorch-Eli-Stevens/dp/1617295264)).
