@@ -13,8 +13,10 @@ Jupyter notebooks for the lessons from [Deep Learning with PyTorch](https://www.
 | Simple linear regression with PyTorch, incl. validation | 5 | `3_optimizers` |
 | Linear regression w/ fully connected NN | 6 | `1_neural_networks` |
 | Trains fully connected NN for image classification (CPU) | 7 | `2_birds_airplanes` |
-| Trains CNN for image classification regression w/ fully connected NN (GPU) | 8 | `2_training` |
-
+| Trains CNN for image classification on GPU, incl. saving to disk | 8 | `2_training` |
+| L2 regularization, dropout, batch norm. loading trained weights | 8 | `3_width, depth, regularization` |
+| ResNet | 8 | `3_width, depth, regularization` |
+| Very deep network with 100 layers | 8 | `3_width, depth, regularization` |
 
 ### Just for learning
 
